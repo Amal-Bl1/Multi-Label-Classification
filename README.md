@@ -1,2 +1,3 @@
-# Multi-Label-Classification
-Multi-Label Classification using BERT and XLNet
+# Multi-Label-Text-Classification
+
+Multi-Label Classification using Transformer-based models: BERT and XLNet.
